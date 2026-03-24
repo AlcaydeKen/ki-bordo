@@ -69,33 +69,33 @@ ki-bordo/
 └── vercel.json
 ```
 
-🚀 Installation Guide
+## 🚀 Installation Guide
 
-1️⃣ Clone the repository
+### 1️⃣ Clone the repository
 ```bash
 git clone https://github.com/AlcaydeKen/ki-bordo.git
 cd ki-bordo
 ```
 
-2️⃣ Move the project to your XAMPP htdocs folder
+### 2️⃣ Move the project to your XAMPP htdocs folder
 
 Example:
 ```bash
 C:\xampp\htdocs\ki-bordo
 ```
 
-3️⃣ Start Apache and MySQL
+### 3️⃣ Start Apache and MySQL
 
 Open XAMPP Control Panel and start:
 - Apache ⚡
 - MySQL 🗄️
 
-4️⃣ Import the database
+### 4️⃣ Import the database
 - Open phpMyAdmin
 - Create a new database
 - Import the ```kibordo_db.sql``` file 📄
 
-5️⃣ Configure the database connection
+### 5️⃣ Configure the database connection
 
 Open your database connection file and update the credentials if needed:
 ```bash
@@ -105,14 +105,14 @@ $password = "";
 $dbname = "kibordo_db";
 ```
 
-6️⃣ Run the project
+### 6️⃣ Run the project
 
 Open your browser and go to:
 ```bash
 http://localhost/ki-bordo/
 ```
 
-🖥️ Screens / Main Pages
+## 🖥️ Screens / Main Pages
 - home.php – 🏠 Homepage
 - category.php – 📂 Product categories
 - quick_view.php – 🔍 Product details
@@ -122,7 +122,7 @@ http://localhost/ki-bordo/
 - profile.php – 👤 User profile
 - admin/ – 🛠️ Admin dashboard
 
-🗄️ Database
+## 🗄️ Database
 
 The database file is included in the project:
 ```bash
@@ -131,7 +131,7 @@ kibordo_db.sql
 
 Import this file into MySQL using phpMyAdmin before running the project.
 
-🔮 Future Improvements
+## 🔮 Future Improvements
 - 💳 Online payment integration
 - 📊 Better admin analytics dashboard
 - 📦 Product stock management
@@ -140,7 +140,7 @@ Import this file into MySQL using phpMyAdmin before running the project.
 - 📧 Email notifications for orders
   
 
-👨‍💻 Author
+## 👨‍💻 Author
 
 Ken Jared Alcayde
 
