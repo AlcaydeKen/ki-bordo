@@ -132,5 +132,5 @@ This project was developed as a keyboard ordering system to practice and demonst
 
 👨‍💻 Author
 Ken Jared Alcayde
-GitHub: AlcaydeKen
+GitHub: [@AlcaydeKen](https://github.com/AlcaydeKen)
 
