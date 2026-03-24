@@ -80,7 +80,7 @@ Open XAMPP Control Panel and start:
 4️⃣ Import the database
 - Open phpMyAdmin
 - Create a new database
-- Import the ```bash kibordo_db.sql``` file 📄
+- Import the ```kibordo_db.sql``` file 📄
 
 5️⃣ Configure the database connection
 
