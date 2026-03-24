@@ -1,4 +1,4 @@
-# 🎹 Ki-Bordo - Keyboard Ordering System
+# ⌨️ Ki-Bordo - Keyboard Ordering System
 
 Ki-Bordo is a full-stack web-based keyboard ordering system built with **PHP, MySQL, HTML, CSS, and JavaScript**. It allows users to browse keyboard products, add items to their cart, place orders, and manage their profile. It also includes an **admin panel** for managing products and monitoring customer orders.
 
