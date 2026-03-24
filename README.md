@@ -58,6 +58,7 @@ ki-bordo/
 ```
 
 🚀 Installation Guide
+
 1️⃣ Clone the repository
 ```bash
 git clone https://github.com/AlcaydeKen/ki-bordo.git
