@@ -131,6 +131,8 @@ Import this file into MySQL using phpMyAdmin before running the project.
 This project was developed as a keyboard ordering system to practice and demonstrate full-stack web development using PHP and MySQL. It showcases authentication, role-based access control, CRUD operations, cart functionality, and order management.
 
 👨‍💻 Author
+
 Ken Jared Alcayde
+
 GitHub: [@AlcaydeKen](https://github.com/AlcaydeKen)
 
