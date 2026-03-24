@@ -2,6 +2,18 @@
 
 Ki-Bordo is a full-stack web-based keyboard ordering system built with **PHP, MySQL, HTML, CSS, and JavaScript**. It allows users to browse keyboard products, add items to their cart, place orders, and manage their profile. It also includes an **admin panel** for managing products and monitoring customer orders.
 
+## 🎯 Purpose
+
+This project was developed as a keyboard ordering system to practice and demonstrate full-stack web development using PHP and MySQL. It showcases authentication, role-based access control, CRUD operations, cart functionality, and order management.
+
+## 🧠 What I Learned
+- How to implement user authentication and role-based access (admin vs user)  
+- CRUD operations in PHP with MySQL  
+- Integrating dynamic content using PHP and JavaScript  
+- Structuring a full-stack web project for scalability  
+- Managing database relationships for products, users, and orders  
+- Using XAMPP for local development and database testing
+
 ## ✨ Features
 
 ### 👤 User Side
@@ -126,10 +138,7 @@ Import this file into MySQL using phpMyAdmin before running the project.
 - ✅ Order status updates
 - 📱 Responsive UI improvements
 - 📧 Email notifications for orders
-
-🎯 Purpose
-
-This project was developed as a keyboard ordering system to practice and demonstrate full-stack web development using PHP and MySQL. It showcases authentication, role-based access control, CRUD operations, cart functionality, and order management.
+  
 
 👨‍💻 Author
 
