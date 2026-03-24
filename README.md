@@ -118,7 +118,7 @@ kibordo_db.sql
 
 Import this file into MySQL using phpMyAdmin before running the project.
 
-- 🔮 Future Improvements
+🔮 Future Improvements
 - 💳 Online payment integration
 - 📊 Better admin analytics dashboard
 - 📦 Product stock management
